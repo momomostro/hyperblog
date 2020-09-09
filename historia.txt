@@ -4,4 +4,6 @@ Momomostro está a nada de cumplir 40 años, por ello necesita cambiar de rumbo
 
 Master 1
 
+Master 2
+
 Aqui regrese a la primera version y añadi este texto para guardar nuevo commit.
